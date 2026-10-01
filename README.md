@@ -7,30 +7,30 @@ I've tested launching the dedicated server software and client to make sure they
 Running Win11 on both machines as the production environment.
 
 Direct X APIs v. 10.0.26100.6584 ( yeah i'm not listing all of these...too dang many and they are all the same version )
-d3d9.dll 10.0.26100.6725
-msvcp110.dll 11.0.65501.17010
-msvcp120.dll 12.0.40664.0
-msvcr110.dll 12.0.30501.0
-msvcr120.dll 12.0.40664.0
-ssleay32.dll 2.6.46.11
-libeay32.dll 1.4.5.0
-ucrtbase.dll 10.0.28000.1
-vstdlib_s64.dll 10.68.89.93
-xaudio2_9redist.dll 1.0.2504.10003
+- d3d9.dll 10.0.26100.6725
+- msvcp110.dll 11.0.65501.17010
+- msvcp120.dll 12.0.40664.0
+- msvcr110.dll 12.0.30501.0
+- msvcr120.dll 12.0.40664.0
+- ssleay32.dll 2.6.46.11
+- libeay32.dll 1.4.5.0
+- ucrtbase.dll 10.0.28000.1
+- vstdlib_s64.dll 10.68.89.93
+- xaudio2_9redist.dll 1.0.2504.10003
 
 --------------------------------------
 
 Files below will be updated as new releases become available......date stamp will be the last updated day and most recent available on that date.
 
-EOSSDK-Win64-Shipping.dll
-concrt140.dll
-vcruntime140_1.dll
-vccorlib140.dll
-vcruntime140.dll
-msdia140.dll
-msvcp140.dll
-msvcp140_1.dll
-msvcp140_2.dll
-steamclient.dll
-steamclient64.dll
-tier0_s64.dll
+- EOSSDK-Win64-Shipping.dll
+- concrt140.dll
+- vcruntime140_1.dll
+- vccorlib140.dll
+- vcruntime140.dll
+- msdia140.dll
+- msvcp140.dll
+- msvcp140_1.dll
+- msvcp140_2.dll
+- steamclient.dll
+- steamclient64.dll
+- tier0_s64.dll
