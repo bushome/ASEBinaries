@@ -6,8 +6,6 @@ I've tested launching the dedicated server software and client to make sure they
 
 Running Win11 on both machines as the production environment.
 
-Running Win11 on both machines as the production environment.
-
 Direct X APIs v. 10.0.26100.6584 ( yeah i'm not listing all of these...too dang many and they are all the same version )
 d3d9.dll 10.0.26100.6725
 msvcp110.dll 11.0.65501.17010
@@ -19,7 +17,9 @@ libeay32.dll 1.4.5.0
 ucrtbase.dll 10.0.28000.1
 vstdlib_s64.dll 10.68.89.93
 xaudio2_9redist.dll 1.0.2504.10003
+
 --------------------------------------
+
 Files below will be updated as new releases become available......date stamp will be the last updated day and most recent available on that date.
 
 EOSSDK-Win64-Shipping.dll
